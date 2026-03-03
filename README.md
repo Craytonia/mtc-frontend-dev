@@ -1,2 +1,2 @@
-# mtc-frontend-dev
-javascript MTC codebase
+# This is a dev javascript repository for frontend developers.
+The infra was last modified by: 
